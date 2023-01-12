@@ -1,0 +1,13 @@
+Get normal distro into code back to Chick on Age, Wt, and PPS... get PDF format for Chi Square
+
+Filter patients out < 90 days old
+
+pps_n out as dv for dt_diffs
+
+Pairwise comparison for male/female to hospital
+
+Within an hospital or country
+
+Do certain countries have more ppsn
+
+Get all combinations for Shunt Ty pps_n groups 1-3 and 7 are dropping out of pairwise comparison
